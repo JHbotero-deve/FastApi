@@ -1,0 +1,5 @@
+REPORTE DE INVENTARIO
+- Lapicero: 1.5
+- Cuaderno: 3.2
+- Borrador: 0.8
+TOTAL: 5.5
